@@ -137,8 +137,7 @@ I am a passionate **Full-Stack Web & Android Developer** pursuing my B.Tech in *
 
 - 🥇 **HackMol 6.0 Top 10 Finalist**: Selected in the top 10 out of **500+ participating teams** for developing *PackUpPal*, an AI-powered travel itinerary planner.
 - 🧠 **Problem Solving**: Solved **850+ Data Structures and Algorithms problems** on LeetCode & GeeksforGeeks.
-- 🥉 **Poster Presentation Winner**: Secured **3rd Prize** in the Department of Instrumentation and Control Engineering event at NIT Jalandhar.
-- 👥 **Leadership**: Active Member of SPICE (Society of Instrumentation) and Volunteer at Prayas NIT Jalandhar.
+- 👥 **Leadership**: Active Member of SPICE (Society of Instrumentation)  NIT Jalandhar.
 
 ---
 
