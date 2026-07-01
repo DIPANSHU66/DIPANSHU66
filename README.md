@@ -139,12 +139,11 @@ I am a passionate **Full-Stack Web & Android Developer** pursuing my B.Tech in *
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIPANSHU66&show_icons=true&theme=tokyonight&border_radius=10" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIPANSHU66&layout=compact&theme=tokyonight&border_radius=10" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DIPANSHU66&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DIPANSHU66&theme=tokyonight&margin-w=15&margin-h=15" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIPANSHU66&theme=tokyonight" width="100%" />
 </p>
 
 ---
